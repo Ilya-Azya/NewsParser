@@ -1,0 +1,92 @@
+{
+    "535892": {
+        "article_date_timestamp": 1674150644.0,
+        "article_title": "Хакеры распространяют вредоносное ПО в пустых изображениях",
+        "article_url": "https://www.securitylab.ru/news/535892.php",
+        "article_disc": "Если изображение пустое - не значит, что в нём ничего нет."
+    },
+    "535891": {
+        "article_date_timestamp": 1674148800.0,
+        "article_title": "В маршрутизаторах Netcomm и TP-Link обнаружены критические уязвимости",
+        "article_url": "https://www.securitylab.ru/news/535891.php",
+        "article_disc": "Некоторые проблемы с безопасностью до сих пор не устранены."
+    },
+    "535890": {
+        "article_date_timestamp": 1674146641.0,
+        "article_title": "Apple Watch боксёра вызвали полицию во время тренировки",
+        "article_url": "https://www.securitylab.ru/news/535890.php",
+        "article_disc": "Снимайте все украшения и часы при входе в зал."
+    },
+    "535885": {
+        "article_date_timestamp": 1674144089.0,
+        "article_title": "99% брандмауэров Sophos подвержены критической уязвимости",
+        "article_url": "https://www.securitylab.ru/news/535885.php",
+        "article_disc": "4400 серверов всё ещё уязвимы перед исправленной ошибкой в файерволе Sophos."
+    },
+    "535869": {
+        "article_date_timestamp": 1674142500.0,
+        "article_title": "Иранские гос.учреждения подверглись атаке усовершенствованного бэкдора",
+        "article_url": "https://www.securitylab.ru/news/535869.php",
+        "article_disc": "Злоумышленники из BackdoorDiplomacy вновь напомнили о себе."
+    },
+    "535860": {
+        "article_date_timestamp": 1674138113.0,
+        "article_title": "Positive Technologies и Swordfish Security cообщают о партнерстве в сфере application security",
+        "article_url": "https://www.securitylab.ru/news/535860.php",
+        "article_disc": "Компании планируют использовать продукты Positive Technologies при построении платформ безопасной разработки."
+    },
+    "535853": {
+        "article_date_timestamp": 1674134618.0,
+        "article_title": "DLBI: В 2022 году утечки данных затронули 75% россиян",
+        "article_url": "https://www.securitylab.ru/news/535853.php",
+        "article_disc": "Среди этих данных – около 100 млн адресов электронной почты и телефонных номеров. Всего же за год произошло 140 утечек информации."
+    },
+    "535851": {
+        "article_date_timestamp": 1674131715.0,
+        "article_title": "ChatGPT поможет даже неопытному хакеру создать опасное вредоносное ПО",
+        "article_url": "https://www.securitylab.ru/news/535851.php",
+        "article_disc": "Специалисты обошли фильтры чат-бота и создали продвинутый эксплоит."
+    },
+    "535849": {
+        "article_date_timestamp": 1674129600.0,
+        "article_title": "Троян NjRAT «гуляет» по Ближнему Востоку и Северной Африке",
+        "article_url": "https://www.securitylab.ru/news/535849.php",
+        "article_disc": "Геополитика сыграла важную роль в распространении вируса."
+    },
+    "535843": {
+        "article_date_timestamp": 1674126000.0,
+        "article_title": "Неизвестные хакеры заявили, что взломали внутренние сервера Samsung",
+        "article_url": "https://www.securitylab.ru/news/535843.php",
+        "article_disc": "Всемирно известный бренд попал под удар из-за политической позиции Южной Кореи."
+    },
+    "535837": {
+        "article_date_timestamp": 1674124200.0,
+        "article_title": "Война картелей: киберпреступники делят тёмный рынок",
+        "article_url": "https://www.securitylab.ru/news/535837.php",
+        "article_disc": "Представители даркнет-маркетплейса Kraken взломали своих конкурентов."
+    },
+    "535842": {
+        "article_date_timestamp": 1674123192.0,
+        "article_title": "Искусственный интеллект обманул рекрутеров и получил приглашение на собеседование",
+        "article_url": "https://www.securitylab.ru/news/535842.php",
+        "article_disc": "Тестовое задание, выполненное ChatGPT, продемонстрировало компетентность в копирайтинге и контент-маркетинге."
+    },
+    "535836": {
+        "article_date_timestamp": 1674121851.0,
+        "article_title": "Группировка BlackByte в поисках мощной видеокарты",
+        "article_url": "https://www.securitylab.ru/news/535836.php",
+        "article_disc": "Используя видеодрайвер в компьютере, хакеры проникают в ядро и становятся всемогущими."
+    },
+    "535898": {
+        "article_date_timestamp": 1674164547.0,
+        "article_title": "Google разрабатывает собственный трекер для конкуренции с AirTag от Apple",
+        "article_url": "https://www.securitylab.ru/news/535898.php",
+        "article_disc": "Трекер будет отслеживать миллиарды устройств андроид."
+    },
+    "535893": {
+        "article_date_timestamp": 1674153300.0,
+        "article_title": "Новый британский законопроект грозит тюремным сроком руководителям технологических компаний",
+        "article_url": "https://www.securitylab.ru/news/535893.php",
+        "article_disc": "Социальные сети должны всеми силами оградить детей от опасного контента."
+    }
+}
